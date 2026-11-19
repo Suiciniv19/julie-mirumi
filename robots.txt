@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://suiciniv19.github.io/julie-mirumi/sitemap.xml
